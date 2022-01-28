@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591786166226",
+    "project_id": "shop-app-16a74",
+    "storage_bucket": "shop-app-16a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591786166226:android:7a350ad92139cfc278ea0b",
+        "android_client_info": {
+          "package_name": "com.example.shahroo_51"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591786166226-5jvka4750h6slqetv07j3o49n6bjs00r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd9Gqk_DePiiLnHLbXQS2BbxsYcHUB9ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591786166226-5jvka4750h6slqetv07j3o49n6bjs00r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
